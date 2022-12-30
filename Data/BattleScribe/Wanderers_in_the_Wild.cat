@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="0b14-3f4f-8e90-c950" name="Wanderers in the Wild" revision="7" battleScribeVersion="2.03" authorName="Hukoseft" authorContact="hukoseft@gmail.com" library="false" gameSystemId="3e16-9abf-6238-4ed9" gameSystemRevision="99" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <selectionEntries>
+    <selectionEntry id="3523-8241-a041-e145" name="Tom Bombadil" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="c088-f7c8-482b-04a7" type="max"/>
+      </constraints>
+      <categoryLinks>
+        <categoryLink id="79b7-214b-4ac1-4282" name="New CategoryLink" hidden="false" targetId="715f-06b0-fffa-1d52" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="70b7-2607-d9bd-b329" name="Tom Bombadil" hidden="false" collective="false" import="true" targetId="2af2-3033-755a-f4aa" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Warriors" typeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Points" typeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Bow" typeId="ab3b-a62b-ef54-533c" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="fc1b-c388-3292-9b6b" name="Goldberry" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="8ed9-3eb3-ac12-097c" type="max"/>
+      </constraints>
+      <categoryLinks>
+        <categoryLink id="5561-6964-8742-5268" name="New CategoryLink" hidden="false" targetId="715f-06b0-fffa-1d52" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="12a4-cad7-f3e8-fde7" name="Goldberry" hidden="false" collective="false" import="true" targetId="70ff-d806-70ad-4e8a" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Warriors" typeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Points" typeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Bow" typeId="ab3b-a62b-ef54-533c" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9d17-232d-57db-a3af" name="Múrin &amp; Drár" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="a91b-2886-9740-c976" type="max"/>
+      </constraints>
+      <categoryLinks>
+        <categoryLink id="d660-9eee-7a43-f04b" name="New CategoryLink" hidden="false" targetId="0ce2-d79d-fb91-3fa2" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="3e0e-dcf2-03ae-2bf5" name="Múrin &amp; Drár" hidden="false" collective="false" import="true" targetId="654c-120f-e2ba-1f33" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Warriors" typeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Points" typeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Bow" typeId="ab3b-a62b-ef54-533c" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1b13-9256-1445-13a8" name="Thráin the Broken" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="7f39-1b88-6643-67f1" type="max"/>
+      </constraints>
+      <categoryLinks>
+        <categoryLink id="0436-8d41-3531-d2da" name="New CategoryLink" hidden="false" targetId="715f-06b0-fffa-1d52" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="e791-536e-ecde-b8af" name="Thráin the Broken" hidden="false" collective="false" import="true" targetId="45a4-72ae-b391-f631" type="selectionEntry">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="600e-13a3-8117-a183" type="min"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Warriors" typeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Points" typeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Bow" typeId="ab3b-a62b-ef54-533c" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6141-3478-a184-32cf" name="Harry Goatleaf" hidden="false" collective="false" import="true" type="upgrade">
+      <entryLinks>
+        <entryLink id="e254-9904-55a6-5088" name="Harry Goatleaf" hidden="false" collective="false" import="true" targetId="1e62-8f1c-0511-728b" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Warriors" typeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Points" typeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Bow" typeId="ab3b-a62b-ef54-533c" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0653-e271-28b4-d4d0" name="Barliman Butterbeer" hidden="false" collective="false" import="true" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="2d01-1b2a-b09d-28f2" name="Minor Hero" hidden="false" targetId="5e53-b18f-0f14-dc92" primary="true"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="5a18-8bd3-3453-b8b4" name="Warband" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="49e0-3615-6902-07c4" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="29c8-31ef-a2aa-2eba" type="min"/>
+          </constraints>
+          <entryLinks>
+            <entryLink id="908e-7b20-1c69-71eb" name="Bill the Pony" hidden="false" collective="false" import="true" targetId="cc88-4589-b0e5-fb1e" type="selectionEntry">
+              <modifiers>
+                <modifier type="set" field="c753-dd85-80b1-68e7" value="0.0"/>
+              </modifiers>
+              <constraints>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="a0e2-c708-5a63-34ce" type="min"/>
+              </constraints>
+              <costs>
+                <cost name=" Points" typeId="8bde-d63c-7caa-c15d" value="10.0"/>
+              </costs>
+            </entryLink>
+          </entryLinks>
+          <costs>
+            <cost name=" Warriors" typeId="391e-19ac-b71d-f2e3" value="0.0"/>
+            <cost name=" Points" typeId="8bde-d63c-7caa-c15d" value="0.0"/>
+            <cost name=" Bow" typeId="ab3b-a62b-ef54-533c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="69a3-8488-e297-e6ed" name="Barliman Butterbur" hidden="false" collective="false" import="true" targetId="9e2c-1c78-5d16-0134" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Warriors" typeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Points" typeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Bow" typeId="ab3b-a62b-ef54-533c" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </selectionEntries>
+</catalogue>
