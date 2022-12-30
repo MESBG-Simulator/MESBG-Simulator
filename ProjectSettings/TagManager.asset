@@ -8,13 +8,13 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Menus
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Models/Units
+  - Models/BackgroundObjects
+  - Terrain
+  - Lighting
   - 
   - 
   - 
